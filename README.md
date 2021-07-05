@@ -38,7 +38,7 @@ Express, Dotenv, Jest, Morgan, Bcrypt, Mongoose, Cors, @code-fellows/supergoose,
 Heroku app link:
 
 
-https://main-basic-auth.herokuapp.com/
+https://main-bearer-auth.herokuapp.com/
 
 
 
@@ -51,7 +51,7 @@ https://github.com/Batoolayyad/bearer-auth/actions
 Pull Rrequest link:
 
 
-
+https://github.com/Batoolayyad/bearer-auth/pull/2
 
 
 
